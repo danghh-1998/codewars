@@ -12,6 +12,7 @@
 
 ### Python
 
+- [Multiples of 3 or 5](python/multiples_of_3_or_5.py) - 6 kyu
 - [Multiply](python/multiply.py) - 8 kyu
 
 ## Don't be a copycat!
