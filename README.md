@@ -16,6 +16,7 @@
 - [Simple Pig Latin](python/simple_pig_latin.py) - 5 kyu
 - [Replace With Alphabet Position](python/replace_with_aphabet_position.py) - 6 kyu
 - [Count the smiley faces!](python/count_the_smiley_faces.py) - 6 kyu
+- [Persistent Bugger](python/persistent_bugger..py) - 6 kyu
 - [Find the odd int](python/find_the_odd_int.py) - 6 kyu
 - [Your order, please](python/your_order_please.py) - 6 kyu
 - [Convert string to camel case](python/convert_string_to_camel_case.py) - 6 kyu
