@@ -13,6 +13,7 @@
 ### Python
 
 - [Maximum subarray sum](python/maximum_subarray_sum.py) - 5 kyu
+- [Count the smiley faces!](python/count_the_smiley_faces.py) - 6 kyu
 - [Find the odd int](python/find_the_odd_int.py) - 6 kyu
 - [Your order, please](python/your_order_please.py) - 6 kyu
 - [Convert string to camel case](python/convert_string_to_camel_case.py) - 6 kyu
