@@ -13,6 +13,7 @@
 ### Python
 
 - [Human readable duration format](python/human_readable_duration_format.py) - 4 kyu
+- [Valid Parentheses](python/valid_parentheses.py) - 5 kyu
 - [Integers: Recreation One](python/integers_recreation_one.py) - 5 kyu
 - [Number of trailing zeros of N!](python/number_of_trailing_zeros_of_N.py) - 5 kyu
 - [Product of consecutive Fib numbers](python/product_of_consecutive_fib_numbers.py) - 5 kyu
