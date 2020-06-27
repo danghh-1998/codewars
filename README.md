@@ -14,6 +14,7 @@
 
 - [Find the odd int](python/find_the_odd_int.py) - 6 kyu
 - [Multiples of 3 or 5](python/multiples_of_3_or_5.py) - 6 kyu
+- [Sum of two lowest positive integers](python/sum_of_two_lowest_positive_integers.py) - 7 kyu
 - [Multiply](python/multiply.py) - 8 kyu
 
 ## Don't be a copycat!
