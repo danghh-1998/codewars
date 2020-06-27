@@ -12,6 +12,7 @@
 
 ### Python
 
+- [Pete, the baker](python/pete_the_baker.py) - 5 kyu
 - [Maximum subarray sum](python/maximum_subarray_sum.py) - 5 kyu
 - [Simple Pig Latin](python/simple_pig_latin.py) - 5 kyu
 - [Replace With Alphabet Position](python/replace_with_aphabet_position.py) - 6 kyu
