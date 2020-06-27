@@ -6,6 +6,8 @@
 
 ## Leveling System
 
+![Leveling System](https://raw.githubusercontent.com/danghh-1998/codewars/master/screenshots/levels.png)
+
 ## List of Challenges
 
 ## Don't be a copycat!
