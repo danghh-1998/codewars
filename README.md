@@ -14,6 +14,7 @@
 
 - [Find the odd int](python/find_the_odd_int.py) - 6 kyu
 - [Your order, please](python/your_order_please.py) - 6 kyu
+- [Convert string to camel case](python/convert_string_to_camel_case.py) - 6 kyu
 - [Multiples of 3 or 5](python/multiples_of_3_or_5.py) - 6 kyu
 - [Who likes it?](python/who_likes_it.py) - 6 kyu
 - [Growth of a Population](python/growth_of_a_population.py) - 7 kyu
