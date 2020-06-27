@@ -12,6 +12,7 @@
 
 ### Python
 
+- [A chain adding function](python/a_chain_adding_function.py) - 5 kyu
 - [Pete, the baker](python/pete_the_baker.py) - 5 kyu
 - [Maximum subarray sum](python/maximum_subarray_sum.py) - 5 kyu
 - [Simple Pig Latin](python/simple_pig_latin.py) - 5 kyu
