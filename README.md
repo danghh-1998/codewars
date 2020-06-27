@@ -12,6 +12,7 @@
 
 ### Python
 
+- [Number of trailing zeros of N!](python/number_of_trailing_zeros_of_N.py) - 5 kyu
 - [Product of consecutive Fib numbers](python/product_of_consecutive_fib_numbers.py) - 5 kyu
 - [A chain adding function](python/a_chain_adding_function.py) - 5 kyu
 - [Pete, the baker](python/pete_the_baker.py) - 5 kyu
