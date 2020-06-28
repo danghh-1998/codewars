@@ -12,6 +12,7 @@
 
 ### Python
 
+- [Vigenère Cipher Helper](python/vigenere_cipher_helper.py) - 4 kyu
 - [Roman Numerals Helper](python/roman_numerals_helper.py) - 4 kyu
 - [Human readable duration format](python/human_readable_duration_format.py) - 4 kyu
 - [Valid Parentheses](python/valid_parentheses.py) - 5 kyu
