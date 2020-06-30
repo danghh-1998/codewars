@@ -12,6 +12,7 @@
 
 ### Python
 
+- [Simplifying multilinear polynomials](python/simplifying_multilinear_polynomials.py) - 4 kyu
 - [Vigenère Cipher Helper](python/vigenere_cipher_helper.py) - 4 kyu
 - [Roman Numerals Helper](python/roman_numerals_helper.py) - 4 kyu
 - [Human readable duration format](python/human_readable_duration_format.py) - 4 kyu
