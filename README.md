@@ -17,6 +17,7 @@
 - [Vigenère Cipher Helper](python/vigenere_cipher_helper.py) - 4 kyu
 - [Roman Numerals Helper](python/roman_numerals_helper.py) - 4 kyu
 - [Human readable duration format](python/human_readable_duration_format.py) - 4 kyu
+- [Features of a Given Array](python/features_of_a_given_array.py) - 5 kyu
 - [Calculating with Functions](python/calculating_with_functions.py) - 5 kyu
 - [Valid Parentheses](python/valid_parentheses.py) - 5 kyu
 - [Integers: Recreation One](python/integers_recreation_one.py) - 5 kyu
