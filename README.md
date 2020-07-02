@@ -17,6 +17,7 @@
 - [Vigenère Cipher Helper](python/vigenere_cipher_helper.py) - 4 kyu
 - [Roman Numerals Helper](python/roman_numerals_helper.py) - 4 kyu
 - [Human readable duration format](python/human_readable_duration_format.py) - 4 kyu
+- [Matching And Substituting](python/matching_and_substituting.py) - 5 kyu
 - [Only-Readable-Once list](python/only_readable_once_list.py) - 5 kyu
 - [Python Reflection: Disassembling the secret](python/python_reflection:_disassembling_the_secret.py) - 5 kyu
 - [Features of a Given Array](python/features_of_a_given_array.py) - 5 kyu
