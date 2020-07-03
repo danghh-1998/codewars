@@ -12,6 +12,7 @@
 
 ### Python
 
+- [Nesting Structure Comparison](python/nesting_structure_comparison.py) - 4 kyu
 - [Lazy init](python/lazy_init.py) - 4 kyu
 - [Simplifying multilinear polynomials](python/simplifying_multilinear_polynomials.py) - 4 kyu
 - [Vigenère Cipher Helper](python/vigenere_cipher_helper.py) - 4 kyu
