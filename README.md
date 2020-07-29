@@ -41,6 +41,7 @@
 - [Multiples of 3 or 5](python/multiples_of_3_or_5.py) - 6 kyu
 - [Who likes it?](python/who_likes_it.py) - 6 kyu
 - [Growth of a Population](python/growth_of_a_population.py) - 7 kyu
+- [Two to One](python/two_to_one.py) - 7 kyu
 - [Sum of two lowest positive integers](python/sum_of_two_lowest_positive_integers.py) - 7 kyu
 - [Grasshopper - Summation](python/grasshopper_summation.py) - 8 kyu
 - [Multiply](python/multiply.py) - 8 kyu
