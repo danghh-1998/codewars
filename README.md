@@ -44,6 +44,7 @@
 - [Format a string of names like 'Bart, Lisa & Maggie'](python/format_a_string_of_names_like_'Bart,%20Lisa%20&%20Maggie'.py) - 6 kyu
 - [Growth of a Population](python/growth_of_a_population.py) - 7 kyu
 - [Two to One](python/two_to_one.py) - 7 kyu
+- [Isograms](python/isograms.py) - 7 kyu
 - [Descending Order](python/descending_order.py) - 7 kyu
 - [Disemvowel Trolls](python/disemvowel_trolls.py) - 7 kyu
 - [Sum of two lowest positive integers](python/sum_of_two_lowest_positive_integers.py) - 7 kyu
