@@ -43,6 +43,7 @@
 - [Array.diff](python/array_diff.py) - 6 kyu
 - [Unique In Order](python/unique_in_order.py) - 6 kyu
 - [Detect Pangram](python/detect_pangram.py) - 6 kyu
+- [Highest Scoring Word](python/highest_scoring_word.py) - 6 kyu
 - [Format a string of names like 'Bart, Lisa & Maggie'](python/format_a_string_of_names_like_'Bart,%20Lisa%20&%20Maggie'.py) - 6 kyu
 - [Growth of a Population](python/growth_of_a_population.py) - 7 kyu
 - [Two to One](python/two_to_one.py) - 7 kyu
