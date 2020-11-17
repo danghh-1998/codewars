@@ -44,6 +44,7 @@
 - [Unique In Order](python/unique_in_order.py) - 6 kyu
 - [Detect Pangram](python/detect_pangram.py) - 6 kyu
 - [Highest Scoring Word](python/highest_scoring_word.py) - 6 kyu
+- [Backspaces in string](python/backspaces_in_string.py) - 6 kyu
 - [Format a string of names like 'Bart, Lisa & Maggie'](python/format_a_string_of_names_like_'Bart,%20Lisa%20&%20Maggie'.py) - 6 kyu
 - [Growth of a Population](python/growth_of_a_population.py) - 7 kyu
 - [Two to One](python/two_to_one.py) - 7 kyu
@@ -51,7 +52,7 @@
 - [Descending Order](python/descending_order.py) - 7 kyu
 - [Disemvowel Trolls](python/disemvowel_trolls.py) - 7 kyu
 - [Sum of two lowest positive integers](python/sum_of_two_lowest_positive_integers.py) - 7 kyu
-- [Form The Minimum](python/form_the_minimum.py)
+- [Form The Minimum](python/form_the_minimum.py) - 7 kyu
 - [Grasshopper - Summation](python/grasshopper_summation.py) - 8 kyu
 - [Square(n) Sum](python/square_sum.py) - 8 kyu
 - [Multiply](python/multiply.py) - 8 kyu
