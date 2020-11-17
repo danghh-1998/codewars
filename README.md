@@ -51,6 +51,7 @@
 - [Descending Order](python/descending_order.py) - 7 kyu
 - [Disemvowel Trolls](python/disemvowel_trolls.py) - 7 kyu
 - [Sum of two lowest positive integers](python/sum_of_two_lowest_positive_integers.py) - 7 kyu
+- [Form The Minimum](python/form_the_minimum.py)
 - [Grasshopper - Summation](python/grasshopper_summation.py) - 8 kyu
 - [Square(n) Sum](python/square_sum.py) - 8 kyu
 - [Multiply](python/multiply.py) - 8 kyu
