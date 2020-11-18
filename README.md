@@ -57,6 +57,7 @@
 - [Grasshopper - Summation](python/grasshopper_summation.py) - 8 kyu
 - [Square(n) Sum](python/square_sum.py) - 8 kyu
 - [Multiply](python/multiply.py) - 8 kyu
+- [Filling an array (part 1)](python/filling_an_array_part_1.py) - 8 kyu
 
 ## Don't be a copycat!
 
