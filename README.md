@@ -38,6 +38,7 @@
 - [Human Readable Time](python/human_readable_time.py) - 5 kyu
 - [Function Addition](python/function_addition.py) - 5 kyu
 - [Field chained HTML formatting](python/field_chained_HTML_formatting.py) - 5 kyu
+- [Convert A Hex String To RGB](python/convert_a_hex_string_to_RGB.py) - 5 kyu
 - [Replace With Alphabet Position](python/replace_with_aphabet_position.py) - 6 kyu
 - [Count the smiley faces!](python/count_the_smiley_faces.py) - 6 kyu
 - [Persistent Bugger](python/persistent_bugger..py) - 6 kyu
