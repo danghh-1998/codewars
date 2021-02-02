@@ -71,6 +71,7 @@
 ### PHP
 
 - [Odd or Even](php/OddOrEven.php) - 7 kyu
+- [Convert a String to a Number](php/ConvertAStringToANumber.php) - 8 kyu
 - [Multiply](php/Multiply.php) - 8 kyu
 - [Reversed Strings](php/ReversedStrings.php) - 8 kyu
 - [Sum without highest and lowest number](php/SumWithoutHighestAndLowestNumber.php) - 8 kyu
