@@ -68,6 +68,14 @@
 - [Multiply](python/multiply.py) - 8 kyu
 - [Filling an array (part 1)](python/filling_an_array_part_1.py) - 8 kyu
 
+### PHP
+
+- [Multiply](php/Multiply.php) - 8 kyu
+- [Reversed Strings](php/ReversedStrings.php) - 8 kyu
+- [Sum without highest and lowest number](php/SumWithoutHighestAndLowestNumber.php) - 8 kyu
+- [Grasshopper - Summation](php/GrasshopperSummation.php) - 8 kyu
+- [Square(n) Sum](php/SquareSum.php) - 8 kyu
+
 ## Don't be a copycat!
 
 If you are going to try to tackle the same challenges, be fair and don't copy. I'm sure there's a system that prevents you from doing it and you would get caught inmediately, so please, don't even think about it.
