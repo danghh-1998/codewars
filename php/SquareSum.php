@@ -5,6 +5,7 @@
  * For example, for [1, 2, 2] it should return 9 because 1^2 + 2^2 + 2^2 = 9.
  *
  */
+
 function square_sum($numbers): int
 {
     return $numbers ? array_reduce(array_map(function ($item) {
