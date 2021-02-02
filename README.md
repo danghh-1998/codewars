@@ -75,6 +75,7 @@
 - [Sum without highest and lowest number](php/SumWithoutHighestAndLowestNumber.php) - 8 kyu
 - [Grasshopper - Summation](php/GrasshopperSummation.php) - 8 kyu
 - [Square(n) Sum](php/SquareSum.php) - 8 kyu
+- [You only need one - Beginner](php/YouOnlyNeedOneBeginner.php) - 8 kyu
 
 ## Don't be a copycat!
 
