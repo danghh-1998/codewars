@@ -71,7 +71,7 @@
 ### PHP
 
 - [Odd or Even](php/OddOrEven.php) - 7 kyu
-  [Highest and Lowest](php/HighestAndLowest.php) - 7 kyu
+- [Highest and Lowest](php/HighestAndLowest.php) - 7 kyu
 - [Convert a String to a Number](php/ConvertAStringToANumber.php) - 8 kyu
 - [Multiply](php/Multiply.php) - 8 kyu
 - [Reversed Strings](php/ReversedStrings.php) - 8 kyu
@@ -79,6 +79,10 @@
 - [Grasshopper - Summation](php/GrasshopperSummation.php) - 8 kyu
 - [Square(n) Sum](php/SquareSum.php) - 8 kyu
 - [You only need one - Beginner](php/YouOnlyNeedOneBeginner.php) - 8 kyu
+
+### Go
+
+- [Function 3 - multiplying two numbers](go/multiplying_two_numbers.go) - 8 kyu
 
 ## Don't be a copycat!
 
