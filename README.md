@@ -82,6 +82,7 @@
 
 ### Go
 
+- [Maximum Length Difference](go/maximum_length_difference.go) - 7 kyu
 - [Is this a triangle?](go/is_this_a_triangle.go) - 7 kyu
 - [Function 3 - multiplying two numbers](go/multiplying_two_numbers.go) - 8 kyu
 - [Return Negative](go/return_negative.go) - 8 kyu
