@@ -82,6 +82,7 @@
 
 ### Go
 
+- [Shortest Word](go/shortest_word.go) - 7 kyu
 - [Maximum Length Difference](go/maximum_length_difference.go) - 7 kyu
 - [Is this a triangle?](go/is_this_a_triangle.go) - 7 kyu
 - [Exclusive "or" (xor) Logical Operator](go/exclusive_%22or%22_(xor)_logical_operator.go) - 8 kyu
