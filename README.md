@@ -83,6 +83,7 @@
 ### Go
 
 - [Function 3 - multiplying two numbers](go/multiplying_two_numbers.go) - 8 kyu
+- [Return Negative](go/return_negative.go) - 8 kyu
 
 ## Don't be a copycat!
 
