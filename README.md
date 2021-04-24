@@ -87,6 +87,7 @@
 - [Make a function that does arithmetic!](go/make_a_function_that_does_arithmetic.go) - 7 kyu
 - [Shortest Word](go/shortest_word.go) - 7 kyu
 - [Factorial](go/factorial.go) - 7 kyu
+- [Strong number](go/strong_number.go) - 7 kyu
 - [Maximum Length Difference](go/maximum_length_difference.go) - 7 kyu
 - [Is this a triangle?](go/is_this_a_triangle.go) - 7 kyu
 - [Count the Digit](go/count_the_digit.go) - 7 kyu
