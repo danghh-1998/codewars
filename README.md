@@ -72,6 +72,7 @@
 - [Abbreviate a Two Word Name](python/abbreviate_a_two_word_name.py) - 8 kyu
 - [Total amount of points](python/total_amount_of_points.py) - 8 kyu
 - [Convert a Boolean to a String](python/convert_a_boolean_to_a_string.py) - 8 kyu
+- [Basic Mathematical Operations](python/basic_mathematical_operations.py) - 8 kyu
 
 ### PHP
 
