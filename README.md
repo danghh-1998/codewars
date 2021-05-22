@@ -68,6 +68,7 @@
 - [Square(n) Sum](python/square_sum.py) - 8 kyu
 - [Multiply](python/multiply.py) - 8 kyu
 - [Filling an array (part 1)](python/filling_an_array_part_1.py) - 8 kyu
+- [Abbreviate a Two Word Name](python/abbreviate_a_two_word_name.py) - 8 kyu
 
 ### PHP
 
