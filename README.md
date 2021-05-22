@@ -56,6 +56,7 @@
 - [Format a string of names like 'Bart, Lisa & Maggie'](python/format_a_string_of_names_like_'Bart,%20Lisa%20&%20Maggie'.py) - 6 kyu
 - [Filling an array (part 2)](python/filling_an_array_part_2.py) - 6 kyu
 - [String array duplicates](python/string_array_duplicates.py) - 6 kyu
+- [Sort the odd](python/sort_the_odd.py) - 6 kyu
 - [Growth of a Population](python/growth_of_a_population.py) - 7 kyu
 - [Two to One](python/two_to_one.py) - 7 kyu
 - [Isograms](python/isograms.py) - 7 kyu
