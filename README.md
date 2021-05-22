@@ -79,6 +79,7 @@
 
 - [SQL Basics: Simple IN](sql/sql_basics_simple_IN.sql) - 6 kyu
 - [Conditional Count](sql/conditional_count.sql) - 6 kyu
+- [SQL Basics: Simple WHERE and ORDER BY](sql/sql_basics_simple_WHERE_and_ORDER_BY.sql) - 8 kyu
 
 ### PHP
 
