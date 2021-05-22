@@ -75,6 +75,10 @@
 - [Basic Mathematical Operations](python/basic_mathematical_operations.py) - 8 kyu
 - [Ones and Zeros](python/ones_and_zeros.py) - 8 kyu
 
+### SQL
+
+- [SQL Basics: Simple IN](sql/sql_basics_simple_IN.sql) - 6 kyu
+
 ### PHP
 
 - [Odd or Even](php/OddOrEven.php) - 7 kyu
