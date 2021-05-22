@@ -69,6 +69,7 @@
 - [Multiply](python/multiply.py) - 8 kyu
 - [Filling an array (part 1)](python/filling_an_array_part_1.py) - 8 kyu
 - [Abbreviate a Two Word Name](python/abbreviate_a_two_word_name.py) - 8 kyu
+- [Total amount of points](python/total_amount_of_points.py) - 8 kyu
 
 ### PHP
 
