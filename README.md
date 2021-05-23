@@ -82,6 +82,7 @@
 - [SQL Basics: Top 10 customers by total payments amount](sql/sql_basics_top_10_customers_by_total_payments_amount.sql) - 6 kyu
 - [SQL Basics: Simple EXISTS](sql/sql_basics_simple_EXISTS.sql) - 6 kyu
 - [Recursion #1 - Factorial](sql/recursion_%231_factorial.sql) - 7 kyu
+- [SQL: Regex Replace](sql/sql_REGEXP_REPLACE.sql) - 7 kyu
 - [SQL Basics: Simple WHERE and ORDER BY](sql/sql_basics_simple_WHERE_and_ORDER_BY.sql) - 8 kyu
 
 ### PHP
