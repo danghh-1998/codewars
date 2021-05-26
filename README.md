@@ -77,6 +77,7 @@
 
 ### SQL
 
+- [SQL Statistics: MIN, MEDIAN, MAX](sql/sql_statistics_MIN_MEDIAN_MAX.sql) - 5 kyu
 - [SQL Basics: Simple IN](sql/sql_basics_simple_IN.sql) - 6 kyu
 - [Conditional Count](sql/conditional_count.sql) - 6 kyu
 - [SQL Basics: Top 10 customers by total payments amount](sql/sql_basics_top_10_customers_by_total_payments_amount.sql) - 6 kyu
