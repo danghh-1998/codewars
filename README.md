@@ -12,6 +12,7 @@
 
 ### Python
 
+- [Debugger](python/debugger.py) - 2 kyu
 - [Nesting Structure Comparison](python/nesting_structure_comparison.py) - 4 kyu
 - [Lazy init](python/lazy_init.py) - 4 kyu
 - [Simplifying multilinear polynomials](python/simplifying_multilinear_polynomials.py) - 4 kyu
@@ -101,6 +102,7 @@
 
 ### Go
 
+- [Make the Deadfish swim](go/make_the_deadfish_swim.go) - 6 kyu
 - [Find the unique number](go/find_the_unique_number.go) - 6 kyu
 - [Highest Rank Number in an Array](go/highest_rank_number_in_an_array.go) - 6 kyu
 - [Make a function that does arithmetic!](go/make_a_function_that_does_arithmetic.go) - 7 kyu
