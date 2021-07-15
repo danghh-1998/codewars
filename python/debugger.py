@@ -26,7 +26,7 @@ You should NOT log calls of getter/setter methods that you might create by meta 
 
 See the tests if in doubts.
 """
-import inspect
+
 from typing import Any, Tuple, Dict, List
 
 
@@ -65,17 +65,22 @@ class Debugger(object):
     attribute_accesses: List[AttributeAccessor] = []
 
 
-def func_wrapper(func):
-    def _target_func(self, *args, **kwargs):
-        pass
+def func_wrapper(func_name, func):  # noqa
+    def _target_func(*args, **kwargs):
+        self, *_ = args
+        Debugger.method_calls.append(MethodCall(_class=type(self),
+                                                method=func.__name__,
+                                                args=args,
+                                                kwargs=kwargs))
+        return func(*args, **kwargs)
+
+    return _target_func
 
 
 class Meta(type):
     def __new__(mcs, name, bases, attrs):
         def _get_attribute(self, attr):
             will_return = object.__getattribute__(self, attr)
-            if callable(will_return):
-                breakpoint()
             Debugger.attribute_accesses.append(AttributeAccessor(action='get',
                                                                  _class=type(self),
                                                                  attribute=attr,
@@ -89,28 +94,11 @@ class Meta(type):
                                                                  value=val))
             object.__setattr__(self, attr, val)
 
+        __callable = {func_name: func for func_name, func in attrs.items() if
+                      not func_name.startswith('__') or func_name == '__init__'}
+        for func_name, func in __callable.items():
+            attrs[func_name] = func_wrapper(func_name, func)
         __new_cls = type.__new__(mcs, name, bases, attrs)
         __new_cls.__getattribute__ = _get_attribute
         __new_cls.__setattr__ = _set_attribute
         return __new_cls
-
-
-class Foo(metaclass=Meta):
-    def __init__(self, val):
-        self.val = val
-
-    def __getattr__(self, item):
-        pass
-
-    def bar(self, additional):
-        return self.val + additional
-
-
-def main():
-    foo = Foo(val=3)
-    foo.bar(additional=10)
-    breakpoint()
-
-
-if __name__ == '__main__':
-    main()
