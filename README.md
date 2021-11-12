@@ -59,6 +59,7 @@
 - [String array duplicates](python/string_array_duplicates.py) - 6 kyu
 - [Sort the odd](python/sort_the_odd.py) - 6 kyu
 - [Schrödinger's Boolean](python/schrodinger_boolean.py) - 6 kyu
+- [Coding Meetup #2 - Higher-Order Functions Series - Greet developers](python/coding_Meetup_2_higher_order_functions_series_greet_developers.py) - 7 kyu
 - [Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe](python/coding_meetup_1_higher_order_functions_series_count_the_number_of_javaScript_developers_coming_from_europe.py) - 7 kyu
 - [Growth of a Population](python/growth_of_a_population.py) - 7 kyu
 - [Two to One](python/two_to_one.py) - 7 kyu
