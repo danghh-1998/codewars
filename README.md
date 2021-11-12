@@ -67,6 +67,7 @@
 - [Sum of two lowest positive integers](python/sum_of_two_lowest_positive_integers.py) - 7 kyu
 - [Form The Minimum](python/form_the_minimum.py) - 7 kyu
 - [Mumbling](python/mumbling.py) - 7 kyu
+- [String repeat](python/string_repeat.py) - 8 kyu
 - [Beginner - Lost Without a Map](python/beginner_lost_without_a_map.py) - 8 kyu
 - [Grasshopper - Summation](python/grasshopper_summation.py) - 8 kyu
 - [Square(n) Sum](python/square_sum.py) - 8 kyu
