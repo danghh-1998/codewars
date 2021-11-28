@@ -82,6 +82,7 @@
 - [Basic Mathematical Operations](python/basic_mathematical_operations.py) - 8 kyu
 - [Ones and Zeros](python/ones_and_zeros.py) - 8 kyu
 - [DNA to RNA Conversion](python/dna_to_rna_conversion.py) - 8 kyu
+- [Sum of positive](python/sum_of_positive.py) - 8 kyu
 
 ### SQL
 
