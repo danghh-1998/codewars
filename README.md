@@ -80,6 +80,7 @@
 - [Convert a Boolean to a String](python/convert_a_boolean_to_a_string.py) - 8 kyu
 - [Basic Mathematical Operations](python/basic_mathematical_operations.py) - 8 kyu
 - [Ones and Zeros](python/ones_and_zeros.py) - 8 kyu
+- [DNA to RNA Conversion](python/dna_to_rna_conversion.py) - 8 kyu
 
 ### SQL
 
