@@ -42,6 +42,7 @@
 - [Field chained HTML formatting](python/field_chained_HTML_formatting.py) - 5 kyu
 - [Convert A Hex String To RGB](python/convert_a_hex_string_to_RGB.py) - 5 kyu
 - [PaginationHelper](python/pagination_helper.py) - 5 kyu
+- [Reverse every other word in the string](python/reverse_every_other_word_in_the_string.py) - 6 kyu
 - [Two sum](python/two_sum.py) - 6 kyu
 - [The Vowel Code](python/the_vowel_code.py) - 6 kyu
 - [Replace With Alphabet Position](python/replace_with_aphabet_position.py) - 6 kyu
