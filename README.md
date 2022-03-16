@@ -118,6 +118,7 @@
 
 ### Go
 
+- [Moving Zeros To The End](go/src/kata/moving_zeros_to_the_end.go) - 5 kyu
 - [Not Very Secure](go/src/kata/not_very_secure.go) - 5 kyu
 - [IP validation](go/src/kata/ip_validation.go) - 6 kyu
 - [Make the Deadfish swim](go/src/kata/make_the_deadfish_swim.go) - 6 kyu
