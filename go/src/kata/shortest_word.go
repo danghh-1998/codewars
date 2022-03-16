@@ -1,4 +1,4 @@
-package _go
+package kata
 
 import "strings"
 import "math"

@@ -1,4 +1,4 @@
-package _go
+package kata
 
 func MakeNegative(number int) int {
 	if number <= 0 {

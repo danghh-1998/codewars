@@ -12,7 +12,7 @@ Invalid characters should be ignored.
 Parse("iiisdoso") == []int{8, 64}
 */
 
-package _go
+package kata
 
 func Parse(data string) (result []int) {
 	value := 0

@@ -114,21 +114,21 @@
 
 ### Go
 
-- [Make the Deadfish swim](go/make_the_deadfish_swim.go) - 6 kyu
-- [Find the unique number](go/find_the_unique_number.go) - 6 kyu
-- [Highest Rank Number in an Array](go/highest_rank_number_in_an_array.go) - 6 kyu
-- [Make a function that does arithmetic!](go/make_a_function_that_does_arithmetic.go) - 7 kyu
-- [Shortest Word](go/shortest_word.go) - 7 kyu
-- [Factorial](go/factorial.go) - 7 kyu
-- [Strong number](go/strong_number.go) - 7 kyu
-- [Maximum Length Difference](go/maximum_length_difference.go) - 7 kyu
-- [Is this a triangle?](go/is_this_a_triangle.go) - 7 kyu
-- [Count the Digit](go/count_the_digit.go) - 7 kyu
-- [Fix string case](go/fix_string_case.go) - 7 kyu
-- [Exclusive "or" (xor) Logical Operator](go/exclusive_%22or%22_(xor)_logical_operator.go) - 8 kyu
-- [You Can't Code Under Pressure #1](go/you_can't_code_under_pressure_%231.go) - 8 kyu
-- [Function 3 - multiplying two numbers](go/multiplying_two_numbers.go) - 8 kyu
-- [Return Negative](go/return_negative.go) - 8 kyu
+- [Make the Deadfish swim](go/src/kata/make_the_deadfish_swim.go) - 6 kyu
+- [Find the unique number](go/src/kata/find_the_unique_number.go) - 6 kyu
+- [Highest Rank Number in an Array](go/src/kata/highest_rank_number_in_an_array.go) - 6 kyu
+- [Make a function that does arithmetic!](go/src/kata/make_a_function_that_does_arithmetic.go) - 7 kyu
+- [Shortest Word](go/src/kata/shortest_word.go) - 7 kyu
+- [Factorial](go/src/kata/factorial.go) - 7 kyu
+- [Strong number](go/src/kata/strong_number.go) - 7 kyu
+- [Maximum Length Difference](go/src/kata/maximum_length_difference.go) - 7 kyu
+- [Is this a triangle?](go/src/kata/is_this_a_triangle.go) - 7 kyu
+- [Count the Digit](go/src/kata/count_the_digit.go) - 7 kyu
+- [Fix string case](go/src/kata/fix_string_case.go) - 7 kyu
+- [Exclusive "or" (xor) Logical Operator](go/src/kata/exclusive_%22or%22_(xor)_logical_operator.go) - 8 kyu
+- [You Can't Code Under Pressure #1](go/src/kata/you_can't_code_under_pressure_%231.go) - 8 kyu
+- [Function 3 - multiplying two numbers](go/src/kata/multiplying_two_numbers.go) - 8 kyu
+- [Return Negative](go/src/kata/return_negative.go) - 8 kyu
 
 ## Don't be a copycat!
 

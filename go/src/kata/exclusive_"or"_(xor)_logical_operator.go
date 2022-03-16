@@ -1,4 +1,4 @@
-package _go
+package kata
 
 /*
 Exclusive "or" (xor) Logical Operator

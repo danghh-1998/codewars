@@ -1,4 +1,4 @@
-package _go
+package kata
 
 /*
 Yor task is to write function factorial
