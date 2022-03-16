@@ -118,6 +118,7 @@
 
 ### Go
 
+- [Next bigger number with the same digits](go/src/kata/next_bigger_number_with_the_same_digits.go) - 4 kyu
 - [Moving Zeros To The End](go/src/kata/moving_zeros_to_the_end.go) - 5 kyu
 - [Not Very Secure](go/src/kata/not_very_secure.go) - 5 kyu
 - [IP validation](go/src/kata/ip_validation.go) - 6 kyu
