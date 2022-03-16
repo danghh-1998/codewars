@@ -1,3 +1,4 @@
 .idea/
 go/pkg/
 go/bin/
+go/src/kata/main/

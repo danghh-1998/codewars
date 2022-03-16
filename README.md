@@ -118,6 +118,7 @@
 
 ### Go
 
+- [Not Very Secure](go/src/kata/not_very_secure.go) - 5 kyu
 - [IP validation](go/src/kata/ip_validation.go) - 6 kyu
 - [Make the Deadfish swim](go/src/kata/make_the_deadfish_swim.go) - 6 kyu
 - [Find the unique number](go/src/kata/find_the_unique_number.go) - 6 kyu
