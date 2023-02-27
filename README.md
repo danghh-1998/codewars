@@ -136,6 +136,7 @@
 - [Is this a triangle?](go/src/is-this-a-triangle/main.go) - 7 kyu
 - [Count the Digit](go/src/count-the-digit/main.go) - 7 kyu
 - [Fix string case](go/src/fix-string-case/main.go) - 7 kyu
+- [Number of People in the Bus](go/src/number-of-people-in-the-bus/main.go) - 7 kyu
 - [Exclusive "or" (xor) Logical Operator](go/src/exclusive-or-xor-logical-operator/main.go) - 8 kyu
 - [You Can't Code Under Pressure #1](go/src/you-can't-code-under-pressure-%231/main.go) - 8 kyu
 - [Function 3 - multiplying two numbers](go/src/multiplying-two-numbers/main.go) - 8 kyu
