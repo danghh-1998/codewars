@@ -15,15 +15,13 @@ The value of 0! is 1.
 You have to create the function factorial that receives n and returns n!. You have to use recursion.
 */
 
-with recursive factorial(n) as (
-    select case
-               when n < 1 then 1
-               else n * factorial(n - 1)
-               end
-    from factorial
-)
-select *
-from factorial as count;
+WITH RECURSIVE factorial(n) AS (SELECT CASE
+                                           WHEN n < 1 THEN 1
+                                           ELSE n * factorial(n - 1)
+                                           END
+                                FROM factorial)
+SELECT *
+FROM factorial AS COUNT;
 
-select *
-from factorial(6);
+SELECT *
+FROM factorial(6);

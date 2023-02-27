@@ -34,13 +34,13 @@ jon_count - total number of payments accepted by Jon (staff_id = 2)
 jon_amount - total amount of payments accepted by Jon (staff_id = 2)
 */
 
-select extract(month from payment_date)          as month,
-       count(*)                                  as total_count,
-       sum(amount)                               as total_amount,
-       count(*) filter ( where staff_id = 1 )    as mike_count,
-       sum(amount) filter ( where staff_id = 1 ) as mike_amount,
-       count(*) filter ( where staff_id = 2 )    as jon_count,
-       sum(amount) filter ( where staff_id = 2 ) as jon_amount
-from payment
-group by month
-order by month;
+SELECT EXTRACT(MONTH FROM payment_date) AS MONTH,
+       COUNT(*)                                  AS total_count,
+       SUM(amount)                               AS total_amount,
+       COUNT(*) filter ( WHERE staff_id = 1 )    AS mike_count,
+       SUM(amount) filter ( WHERE staff_id = 1 ) AS mike_amount,
+       COUNT(*) filter ( WHERE staff_id = 2 )    AS jon_count,
+       SUM(amount) filter ( WHERE staff_id = 2 ) AS jon_amount
+FROM payment
+GROUP BY MONTH
+ORDER BY MONTH;

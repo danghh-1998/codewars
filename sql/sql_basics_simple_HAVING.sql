@@ -12,13 +12,23 @@ age
 total_people
 */
 
-create table if not exists people (
-    id int primary key,
-    name varchar not null,
-    age int not null
+CREATE TABLE if NOT EXISTS people
+(
+    id
+    INT
+    PRIMARY
+    KEY,
+    NAME
+    VARCHAR
+    NOT
+    NULL,
+    age
+    INT
+    NOT
+    NULL
 );
 
-select age, count(age) as total_people
-from people
-group by age
-having count(age) >= 10;
+SELECT age, COUNT(age) AS total_people
+FROM people
+GROUP BY age
+HAVING COUNT(age) >= 10;

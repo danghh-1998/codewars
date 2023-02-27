@@ -4,24 +4,24 @@ scores of the students from the results table.
 
 */
 
-create table student
+CREATE TABLE student
 (
-    id   int primary key,
-    name varchar not null
+    id   INT PRIMARY KEY,
+    name VARCHAR NOT NULL
 );
 
-create table result
+CREATE TABLE result
 (
-    id         int primary key,
-    student_id int,
-    constraint fk_student_id foreign key (student_id) references student (id),
-    score      int
+    id         INT PRIMARY KEY,
+    student_id INT,
+    CONSTRAINT fk_student_id FOREIGN KEY (student_id) REFERENCES student (id),
+    score      INT
 );
 
-select min(sum_score),
-       max(sum_score),
-       percentile_cont(0.5) within group ( order by sum_score ) as median
-from (select sum(score) as sum_score
-      from result
-      group by student_id) as student_score
-limit 1
+SELECT MIN(sum_score),
+       MAX(sum_score),
+       percentile_cont(0.5) within GROUP ( ORDER BY sum_score ) AS median
+FROM (SELECT SUM (score) AS sum_score
+    FROM RESULT
+    GROUP BY student_id) AS student_score
+    limit 1

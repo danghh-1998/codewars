@@ -21,4 +21,6 @@ name
 NOTE: sometimes a department will not not contain a sale over $98 so just resubmit.
 */
 
-select * from departments where departments.id in (select sales.department_id from sales where sales.price > 98)
+SELECT *
+FROM departments
+WHERE departments.id IN (SELECT sales.department_id FROM sales WHERE sales.price > 98)

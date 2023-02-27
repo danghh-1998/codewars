@@ -22,5 +22,8 @@ Case should be maintained.
 
 */
 
-select project, commits, contributors, regexp_replace(string := address, pattern := '[[:digit:]]', replacement := '!', flags := 'g') as address
-from repositories;
+SELECT project,
+       commits,
+       contributors,
+       regexp_replace(string := address, pattern := '[[:digit:]]', replacement := '!', flags := 'g') AS address
+FROM repositories;

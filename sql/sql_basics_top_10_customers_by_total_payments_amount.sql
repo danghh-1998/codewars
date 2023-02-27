@@ -15,13 +15,11 @@ and has the following requirements:
 only returns the 10 top customers, ordered by total amount spent from highest to lowest
 */
 
-select payment.customer_id,
+SELECT payment.customer_id,
        customer.email,
-       sum(amount)::float as total_amount,
-       count(amount)      as payments_count
-from payment,
+       SUM(amount)::float AS total_amount, COUNT(amount) AS payments_count
+FROM payment,
      customer
-where payment.customer_id = customer.customer_id
-group by payment.customer_id, customer.email
-order by total_amount desc
-limit 10
+WHERE payment.customer_id = customer.customer_id
+GROUP BY payment.customer_id, customer.email
+ORDER BY total_amount DESC limit 10

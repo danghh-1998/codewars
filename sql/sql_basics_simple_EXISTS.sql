@@ -21,11 +21,11 @@ name
 
 */
 
-select *
-from departments
-where exists(
-              select 1
-              from sales
-              where price > 98
-                and sales.department_id = departments.id
+SELECT *
+FROM departments
+WHERE EXISTS(
+              SELECT 1
+              FROM sales
+              WHERE price > 98
+                AND sales.department_id = departments.id
           );
