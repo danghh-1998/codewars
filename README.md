@@ -1,6 +1,7 @@
 # CodeWars
 
-> This is the GitHub repository where I save copies of the katas I've completed on [codewars.com](https://www.codewars.com/).
+> This is the GitHub repository where I save copies of the katas I've completed
+> on [codewars.com](https://www.codewars.com/).
 
 [![Profile badge](https://www.codewars.com/users/danghh-1998/badges/large)](https://www.codewars.com/users/danghh-1998)
 
@@ -59,15 +60,15 @@
 - [Highest Scoring Word](python/highest_scoring_word.py) - 6 kyu
 - [Backspaces in string](python/backspaces_in_string.py) - 6 kyu
 - [Format a string of names like 'Bart, Lisa & Maggie'](python/format_a_string_of_names_like_'Bart,%20Lisa%20&%20Maggie'.py)
-  - 6 kyu
+    - 6 kyu
 - [Filling an array (part 2)](python/filling_an_array_part_2.py) - 6 kyu
 - [String array duplicates](python/string_array_duplicates.py) - 6 kyu
 - [Sort the odd](python/sort_the_odd.py) - 6 kyu
 - [Schrödinger's Boolean](python/schrodinger_boolean.py) - 6 kyu
 - [Coding Meetup #2 - Higher-Order Functions Series - Greet developers](python/coding_Meetup_2_higher_order_functions_series_greet_developers.py)
-  - 7 kyu
+    - 7 kyu
 - [Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe](python/coding_meetup_1_higher_order_functions_series_count_the_number_of_javaScript_developers_coming_from_europe.py)
-  - 7 kyu
+    - 7 kyu
 - [Growth of a Population](python/growth_of_a_population.py) - 7 kyu
 - [Two to One](python/two_to_one.py) - 7 kyu
 - [Isograms](python/isograms.py) - 7 kyu
@@ -97,7 +98,7 @@
 - [SQL Basics: Simple IN](sql/sql_basics_simple_IN.sql) - 6 kyu
 - [Conditional Count](sql/conditional_count.sql) - 6 kyu
 - [SQL Basics: Top 10 customers by total payments amount](sql/sql_basics_top_10_customers_by_total_payments_amount.sql)
-  - 6 kyu
+    - 6 kyu
 - [SQL Basics: Simple EXISTS](sql/sql_basics_simple_EXISTS.sql) - 6 kyu
 - [SQL Basics: Simple HAVING](sql/sql_basics_simple_HAVING.sql) - 6 kyu
 - [Recursion #1 - Factorial](sql/recursion_%231_factorial.sql) - 7 kyu
@@ -118,27 +119,28 @@
 
 ### Go
 
-- [Next bigger number with the same digits](go/src/kata/next_bigger_number_with_the_same_digits.go) - 4 kyu
-- [Moving Zeros To The End](go/src/kata/moving_zeros_to_the_end.go) - 5 kyu
-- [Not Very Secure](go/src/kata/not_very_secure.go) - 5 kyu
-- [Function iteration](go/src/kata/function_iteration.go) - 6 kyu
-- [Create Phone Number](go/src/kata/create_phone_number.go) - 6 kyu
-- [IP validation](go/src/kata/ip_validation.go) - 6 kyu
-- [Make the Deadfish swim](go/src/kata/make_the_deadfish_swim.go) - 6 kyu
-- [Find the unique number](go/src/kata/find_the_unique_number.go) - 6 kyu
-- [Highest Rank Number in an Array](go/src/kata/highest_rank_number_in_an_array.go) - 6 kyu
-- [Make a function that does arithmetic!](go/src/kata/make_a_function_that_does_arithmetic.go) - 7 kyu
-- [Shortest Word](go/src/kata/shortest_word.go) - 7 kyu
-- [Factorial](go/src/kata/factorial.go) - 7 kyu
-- [Strong number](go/src/kata/strong_number.go) - 7 kyu
-- [Maximum Length Difference](go/src/kata/maximum_length_difference.go) - 7 kyu
-- [Is this a triangle?](go/src/kata/is_this_a_triangle.go) - 7 kyu
-- [Count the Digit](go/src/kata/count_the_digit.go) - 7 kyu
-- [Fix string case](go/src/kata/fix_string_case.go) - 7 kyu
-- [Exclusive "or" (xor) Logical Operator](go/src/kata/exclusive_%22or%22_(xor)_logical_operator.go) - 8 kyu
-- [You Can't Code Under Pressure #1](go/src/kata/you_can't_code_under_pressure_%231.go) - 8 kyu
-- [Function 3 - multiplying two numbers](go/src/kata/multiplying_two_numbers.go) - 8 kyu
-- [Return Negative](go/src/kata/return_negative.go) - 8 kyu
+- [Next bigger number with the same digits](go/src/next-bigger-number-with-the-same-digits/main.go) - 4 kyu
+- [Moving Zeros To The End](go/src/moving-zeros-to-the-end/main.go) - 5 kyu
+- [Not Very Secure](go/src/not-very-secure/main.go) - 5 kyu
+- [Function iteration](go/src/function-iteration/main.go) - 6 kyu
+- [Create Phone Number](go/src/create-phone-number/main.go) - 6 kyu
+- [IP validation](go/src/ip-validation/main.go) - 6 kyu
+- [Make the Deadfish swim](go/src/make-the-deadfish-swim/main.go) - 6 kyu
+- [Find the unique number](go/src/find-the-unique-number/main.go) - 6 kyu
+- [Highest Rank Number in an Array](go/src/highest-rank-number-in-an-array/main.go) - 6 kyu
+- [Make a function that does arithmetic!](go/src/make-a-function-that-does-arithmetic/main.go) - 7 kyu
+- [Shortest Word](go/src/shortest-word/main.go) - 7 kyu
+- [Factorial](go/src/factorial/main.go) - 7 kyu
+- [Strong number](go/src/strong-number/main.go) - 7 kyu
+- [Maximum Length Difference](go/src/maximum-length-difference/main.go) - 7 kyu
+- [Is this a triangle?](go/src/is-this-a-triangle/main.go) - 7 kyu
+- [Count the Digit](go/src/count-the-digit/main.go) - 7 kyu
+- [Fix string case](go/src/fix-string-case/main.go) - 7 kyu
+- [Exclusive "or" (xor) Logical Operator](go/src/exclusive-or-xor-logical-operator/main.go) - 8 kyu
+- [You Can't Code Under Pressure #1](go/src/you-can't-code-under-pressure-%231/main.go) - 8 kyu
+- [Function 3 - multiplying two numbers](go/src/multiplying-two-numbers/main.go) - 8 kyu
+- [Return Negative](go/src/return-negative/main.go) - 8 kyu
+- [Beginner Series #2 Clock](go/src/beginner-series-%232-clock/main.go) - 8 kyu
 
 ## Don't be a copycat!
 
