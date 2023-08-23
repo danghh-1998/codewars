@@ -59,13 +59,16 @@
 - [Detect Pangram](python/detect_pangram.py) - 6 kyu
 - [Highest Scoring Word](python/highest_scoring_word.py) - 6 kyu
 - [Backspaces in string](python/backspaces_in_string.py) - 6 kyu
-- [Format a string of names like 'Bart, Lisa & Maggie'](python/format_a_string_of_names_like_'Bart,%20Lisa%20&%20Maggie'.py) - 6 kyu
+- [Format a string of names like 'Bart, Lisa & Maggie'](python/format_a_string_of_names_like_'Bart,%20Lisa%20&%20Maggie'.py) -
+  6 kyu
 - [Filling an array (part 2)](python/filling_an_array_part_2.py) - 6 kyu
 - [String array duplicates](python/string_array_duplicates.py) - 6 kyu
 - [Sort the odd](python/sort_the_odd.py) - 6 kyu
 - [Schrödinger's Boolean](python/schrodinger_boolean.py) - 6 kyu
-- [Coding Meetup #2 - Higher-Order Functions Series - Greet developers](python/coding_Meetup_2_higher_order_functions_series_greet_developers.py) - 7 kyu
-- [Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe](python/coding_meetup_1_higher_order_functions_series_count_the_number_of_javaScript_developers_coming_from_europe.py) - 7 kyu
+- [Coding Meetup #2 - Higher-Order Functions Series - Greet developers](python/coding_Meetup_2_higher_order_functions_series_greet_developers.py) -
+  7 kyu
+- [Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe](python/coding_meetup_1_higher_order_functions_series_count_the_number_of_javaScript_developers_coming_from_europe.py) -
+  7 kyu
 - [Growth of a Population](python/growth_of_a_population.py) - 7 kyu
 - [Two to One](python/two_to_one.py) - 7 kyu
 - [Isograms](python/isograms.py) - 7 kyu
@@ -94,7 +97,8 @@
 - [SQL Statistics: MIN, MEDIAN, MAX](sql/sql_statistics_MIN_MEDIAN_MAX.sql) - 5 kyu
 - [SQL Basics: Simple IN](sql/sql_basics_simple_IN.sql) - 6 kyu
 - [Conditional Count](sql/conditional_count.sql) - 6 kyu
-- [SQL Basics: Top 10 customers by total payments amount](sql/sql_basics_top_10_customers_by_total_payments_amount.sql) - 6 kyu
+- [SQL Basics: Top 10 customers by total payments amount](sql/sql_basics_top_10_customers_by_total_payments_amount.sql) -
+  6 kyu
 - [SQL Basics: Simple EXISTS](sql/sql_basics_simple_EXISTS.sql) - 6 kyu
 - [SQL Basics: Simple HAVING](sql/sql_basics_simple_HAVING.sql) - 6 kyu
 - [Recursion #1 - Factorial](sql/recursion_%231_factorial.sql) - 7 kyu
@@ -139,6 +143,7 @@
 - [Function 3 - multiplying two numbers](go/src/multiplying-two-numbers/main.go) - 8 kyu
 - [Return Negative](go/src/return-negative/main.go) - 8 kyu
 - [Beginner Series #2 Clock](go/src/beginner-series-%232-clock/main.go) - 8 kyu
+- [Convert boolean values to strings 'Yes' or 'No'](go/src/convert-boolean-values-to-strings-yes-or-no/main.go) - 8kyu
 
 ## Don't be a copycat!
 
